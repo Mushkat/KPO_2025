@@ -1,0 +1,14 @@
+D:\Vblshka\KonPO\s1\bin\Debug\net8.0\s1.exe
+D:\Vblshka\KonPO\s1\bin\Debug\net8.0\s1.deps.json
+D:\Vblshka\KonPO\s1\bin\Debug\net8.0\s1.runtimeconfig.json
+D:\Vblshka\KonPO\s1\bin\Debug\net8.0\s1.dll
+D:\Vblshka\KonPO\s1\bin\Debug\net8.0\s1.pdb
+D:\Vblshka\KonPO\s1\obj\Debug\net8.0\s1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vblshka\KonPO\s1\obj\Debug\net8.0\s1.AssemblyInfoInputs.cache
+D:\Vblshka\KonPO\s1\obj\Debug\net8.0\s1.AssemblyInfo.cs
+D:\Vblshka\KonPO\s1\obj\Debug\net8.0\s1.csproj.CoreCompileInputs.cache
+D:\Vblshka\KonPO\s1\obj\Debug\net8.0\s1.dll
+D:\Vblshka\KonPO\s1\obj\Debug\net8.0\refint\s1.dll
+D:\Vblshka\KonPO\s1\obj\Debug\net8.0\s1.pdb
+D:\Vblshka\KonPO\s1\obj\Debug\net8.0\s1.genruntimeconfig.cache
+D:\Vblshka\KonPO\s1\obj\Debug\net8.0\ref\s1.dll
