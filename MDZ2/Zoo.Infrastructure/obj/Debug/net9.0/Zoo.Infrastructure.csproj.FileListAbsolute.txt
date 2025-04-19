@@ -1,0 +1,17 @@
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\bin\Debug\net9.0\Zoo.Infrastructure.deps.json
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\bin\Debug\net9.0\Zoo.Infrastructure.dll
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\bin\Debug\net9.0\Zoo.Infrastructure.pdb
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\bin\Debug\net9.0\Zoo.Application.dll
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\bin\Debug\net9.0\Zoo.Domain.dll
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\bin\Debug\net9.0\Zoo.Application.pdb
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\bin\Debug\net9.0\Zoo.Domain.pdb
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infrastructure.csproj.AssemblyReference.cache
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infrastructure.AssemblyInfoInputs.cache
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infrastructure.AssemblyInfo.cs
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infr.64A231E8.Up2Date
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infrastructure.dll
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\obj\Debug\net9.0\refint\Zoo.Infrastructure.dll
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\obj\Debug\net9.0\Zoo.Infrastructure.pdb
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Infrastructure\obj\Debug\net9.0\ref\Zoo.Infrastructure.dll
