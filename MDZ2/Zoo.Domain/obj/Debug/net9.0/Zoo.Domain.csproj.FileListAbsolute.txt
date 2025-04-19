@@ -1,0 +1,11 @@
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Domain\bin\Debug\net9.0\Zoo.Domain.deps.json
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Domain\bin\Debug\net9.0\Zoo.Domain.dll
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Domain\bin\Debug\net9.0\Zoo.Domain.pdb
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Domain\obj\Debug\net9.0\Zoo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Domain\obj\Debug\net9.0\Zoo.Domain.AssemblyInfoInputs.cache
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Domain\obj\Debug\net9.0\Zoo.Domain.AssemblyInfo.cs
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Domain\obj\Debug\net9.0\Zoo.Domain.csproj.CoreCompileInputs.cache
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Domain\obj\Debug\net9.0\Zoo.Domain.dll
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Domain\obj\Debug\net9.0\refint\Zoo.Domain.dll
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Domain\obj\Debug\net9.0\Zoo.Domain.pdb
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Domain\obj\Debug\net9.0\ref\Zoo.Domain.dll

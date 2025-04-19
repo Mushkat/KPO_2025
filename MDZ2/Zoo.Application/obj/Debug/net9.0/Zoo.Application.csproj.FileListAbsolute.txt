@@ -1,0 +1,15 @@
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\bin\Debug\net9.0\Zoo.Application.deps.json
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\bin\Debug\net9.0\Zoo.Application.dll
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\bin\Debug\net9.0\Zoo.Application.pdb
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\bin\Debug\net9.0\Zoo.Domain.dll
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\bin\Debug\net9.0\Zoo.Domain.pdb
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\obj\Debug\net9.0\Zoo.Application.csproj.AssemblyReference.cache
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\obj\Debug\net9.0\Zoo.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\obj\Debug\net9.0\Zoo.Application.AssemblyInfoInputs.cache
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\obj\Debug\net9.0\Zoo.Application.AssemblyInfo.cs
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\obj\Debug\net9.0\Zoo.Application.csproj.CoreCompileInputs.cache
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\obj\Debug\net9.0\Zoo.Appl.11DBBD74.Up2Date
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\obj\Debug\net9.0\Zoo.Application.dll
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\obj\Debug\net9.0\refint\Zoo.Application.dll
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\obj\Debug\net9.0\Zoo.Application.pdb
+D:\Vblshka\KPO\KPO_Dz2\Zoo.Application\obj\Debug\net9.0\ref\Zoo.Application.dll
